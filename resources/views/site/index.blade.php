@@ -4,7 +4,7 @@
         <div class="container">
             <!-- TITLE START-->
             <div class="section-head text-center">
-                <h2 class="text-uppercase">Сервисная компания</h2>
+                <h2 class="text-uppercase">Наши услуги</h2>
                 <div class="wt-separator-outer">
                     <div class="wt-separator site-bg-primary"></div>
                 </div>
@@ -21,8 +21,8 @@
                             </div>
                             <div class="wt-icon-box-wraper  p-a20 left bg-white">
                                 <div class="icon-content bdr-4 bdr-left bdr-primary  p-l20">
-                                    <h4 class="wt-tilte text-uppercase m-b5"><a href="services-detail.html">Lorem, ipsum</a></h4>
-                                    <p>Lorem Ipsum is simply dummy text.</p>
+                                    <h4 class="wt-tilte text-uppercase m-b5"><a href="services-detail.html">Мойка</a></h4>
+                                    <p>Мойка автомобилей разных видов</p>
                                 </div>
                             </div>
                         </div>
@@ -35,8 +35,8 @@
                             </div>
                             <div class="wt-icon-box-wraper  p-a20 left bg-white">
                                 <div class="icon-content bdr-4 bdr-left bdr-primary  p-l20">
-                                    <h4 class="wt-tilte text-uppercase m-b5"><a href="services-detail.html">Lorem, ipsum.</a></h4>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+                                    <h4 class="wt-tilte text-uppercase m-b5"><a href="services-detail.html">Химчистка</a></h4>
+                                    <p>Химчистка и полировка салона.</p>
                                 </div>
                             </div>
                         </div>
@@ -49,8 +49,8 @@
                             </div>
                             <div class="wt-icon-box-wraper  p-a20 left bg-white ">
                                 <div class="icon-content bdr-4 bdr-left bdr-primary  p-l20">
-                                    <h4 class="wt-tilte text-uppercase m-b5"><a href="services-detail.html">Lorem, ipsum.</a></h4>
-                                    <p>Lorem Ipsum is simply dummy text.</p>
+                                    <h4 class="wt-tilte text-uppercase m-b5"><a href="services-detail.html">Паровая мойка.</a></h4>
+                                    <p>удаление загрязнений без вреда для авто.</p>
                                 </div>
                             </div>
                         </div>
@@ -81,14 +81,24 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="wt-box m-b30">
-                        <span class="site-text-primary display-block title-second font-20 display-block m-b15">Lorem.</span>
-                        <h2 class="text-uppercase display-block m-b15 m-t0 text-white">Lorem ipsum dolor sit amet.</h2>
-                        <p class="m-b15 text-white">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, no when an unknown printer took a galley of
-                            type and scrambled it to make a type onis specimen book.Lorem Ipsum has been the industry's standard dummy text ever is a since the 1500s, no when an unknown printer took.</p>
+                        
+                        <h2 class="text-uppercase display-block m-b15 m-t0 text-white">Steam Team.</h2>
+                        <p class="m-b15 text-white">это уникальный сервис, не имеющий аналогов в мире! 
+                            Мы предлагаем инновационную технологию выездной автомойки,
+                             благодаря которой ваш автомобиль будет чистым без лишних усилий.
+                              Теперь вам не нужно искать свободную автомойку или беспокоиться о сохранности лакокрасочного покрытия –
+                               наша мобильная команда приедет к вам и выполнит работу с высочайшим качеством.
+                        </p>
+
+                        <p class="violet">Как это работает?</p>
+
                         <ul class="list-check-circle primary m-b15">
-                            <li class="text-white">Lorem, ipsum dolor sit amet consectetur adipisicing. </li>
-                            <li class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing.</li>
-                            <li class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. </li>
+                            <li class="text-white">Вы выбираете нужный пакет услуг в мобильном приложении (доступно для iOS и Android). </li>
+                            <li class="text-white">Указываете местоположение автомобиля.</li>
+                            <li class="text-white">Наш электромобиль с оборудованием приезжает в течение 20 минут. </li>
+                            <li class="text-white">В случае заказа чистки салона, предоставляете доступ к автомобилю. </li>
+                            <li class="text-white">После завершения работы оплата автоматически списывается с вашей карты.</li>
+                            <li class="text-white">Оцените качество услуг прямо в приложении.</li>
                         </ul>
                         <a href="services-detail.html" class="site-button">Связаться</a>
                     </div>
@@ -116,13 +126,14 @@
                         <div class="wt-right-part-2  p-t87 p-b87">
                             <div class="row no-col-gap">
                                 <div class="col-md-6 col-sm-6 bg-gray hover-shadow">
+                               
                                     <div class="wt-icon-box-wraper  p-a30">
                                         <div class="icon-md site-text-primary radius m-b15">
                                             <span class="icon-cell  site-text-primary"><i class="flaticon-businessman"></i></span>
                                         </div>
                                         <div class="icon-content">
-                                            <h4 class="wt-tilte text-uppercase m-b5">Lorem, ipsum.</h4>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi?</p>
+                                            <h4 class="wt-tilte text-uppercase m-b5">Экологичность</h4>
+                                            <p>минимальный расход воды (5–10 литров на автомобиль), отсутствие вредных химикатов.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -132,8 +143,8 @@
                                             <span class="icon-cell  site-text-primary"><i class="flaticon-building"></i></span>
                                         </div>
                                         <div class="icon-content">
-                                            <h4 class="wt-tilte text-uppercase m-b5">Lorem, ipsum.</h4>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi?</p>
+                                            <h4 class="wt-tilte text-uppercase m-b5">Безопасность</h4>
+                                            <p>паровая технология не повреждает лакокрасочное покрытие.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -143,8 +154,8 @@
                                             <span class="icon-cell  site-text-primary"><i class="flaticon-analytics"></i></span>
                                         </div>
                                         <div class="icon-content">
-                                            <h4 class="wt-tilte text-uppercase m-b5">Lorem, ipsum.</h4>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi?</p>
+                                            <h4 class="wt-tilte text-uppercase m-b5">Комфорт</h4>
+                                            <p>услуга предоставляется в удобное для вас время и место.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -154,8 +165,8 @@
                                             <span class="icon-cell  site-text-primary"><i class="flaticon-bar-chart"></i></span>
                                         </div>
                                         <div class="icon-content">
-                                            <h4 class="wt-tilte text-uppercase m-b5">Lorem, ipsum.</h4>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi?</p>
+                                            <h4 class="wt-tilte text-uppercase m-b5">Контроль качества</h4>
+                                            <p>возможность просматривать рейтинг и отзывы исполнителей.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -175,7 +186,7 @@
 
             <!-- TITLE START-->
             <div class="section-head text-center">
-                <h2 class="text-uppercase">Lorem, ipsum.</h2>
+                <h2 class="text-uppercase">Наши преимущества.</h2>
                 <div class="wt-separator-outer">
                     <div class="wt-separator site-bg-primary"></div>
                 </div>
@@ -245,7 +256,7 @@
                                             </div>
                                             <div class="icon-content text-white">
                                                 <h4 class="wt-tilte m-b5">Наш адрес </h4>
-                                                <p> Валиханова 47, AL </p>
+                                                <p> Шота Руставели дом 39, AL </p>
                                             </div>
                                         </div>
                                     </div>
@@ -257,7 +268,7 @@
                                             </div>
                                             <div class="icon-content text-white">
                                                 <h4 class="wt-tilte m-b5">Email </h4>
-                                                <p>almuko.m@gmail.com</p>
+                                                <p>1sunsayseka@mail.ru</p>
                                             </div>
                                         </div>
                                     </div>
@@ -269,7 +280,7 @@
                                             </div>
                                             <div class="icon-content text-white">
                                                 <h4 class="wt-tilte m-b5">Телефон</h4>
-                                                <p>+7 707 780 10 11</p>
+                                                <p>+7 701 223 9777</p>
                                             </div>
                                         </div>
                                     </div>
@@ -281,7 +292,7 @@
                                             </div>
                                             <div class="icon-content text-white">
                                                 <h4 class="wt-tilte m-b5">Skype id</h4>
-                                                <p>almuko</p>
+                                                <p>smg</p>
                                             </div>
                                         </div>
                                     </div>

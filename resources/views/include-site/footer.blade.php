@@ -13,7 +13,7 @@
                         <div class="logo-footer clearfix p-b15">
                             <a href="index.html"><img src="{{asset('/site/images/logo-1.png')}}" width="171" height="49" alt=""/></a>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur varient adipiscing elit, sed do eiusmod tempor is there incididunt ut labore et dolore. morem isa ipsum dolor sit amet, consectetur adipisc ing elit.</p>
+                        <p>Steam Team — это уникальный сервис, не имеющий аналогов в мире. Мы предлагаем выездную автомойку с использованием паровой технологии, обеспечивая качественную и безопасную очистку автомобиля прямо у вас дома, на работе или в любом удобном месте.</p>
                         <ul>
                             <li> <i class="fa fa-phone site-text-primary"></i> <b class="p-lr5">Tel:</b> +7 707 780 10 11 </li>
                             <li><i class="fa fa-envelope site-text-primary"></i> <b  class="p-lr5">Email:</b>almuko.m@gmail.com </li>
@@ -37,7 +37,7 @@
                 <!-- Instagram Feed -->
                 <div class="col-lg-3 col-md-6">
                     <div class="widget widget_gallery mfp-gallery clearfix">
-                        <h4 class="widget-title">Пследние посты</h4>
+                        <h4 class="widget-title">Последние посты</h4>
                         <ul class="clearfix">
                             <li>
                                 <div class="wt-post-thum radius-md overflow-hide">
@@ -84,12 +84,10 @@
                     <div class="tag-small widget  widget_tag_cloud m-b20">
                         <h4 class="widget-title">Услуги</h4>
                         <div class="tagcloud">
-                            <a href="about-1.html">Помыть снаружи </a>
-                            <a href="about-1.html">Помыть мотор</a>
-                            <a href="about-1.html">Очернить балоны</a>
-                            <a href="about-1.html">Сухой туман</a>
-                            <a href="about-1.html">Химчистка салона</a>
-                            
+                            <a href="about-1.html" class="text-white">Мойка автомобилей </a>
+                            <a href="about-1.html" class="text-white">Химчистка салона и полировка</a>
+                            <a href="about-1.html" class="text-white">Мойка двигателя и очистка спецтехники</a>
+                            <a href="about-1.html" class="text-white">Зимние услуги: отмораживание двигателя, подкачка шин</a>
                         </div>
                     </div>
                 </div>

@@ -707,6 +707,12 @@ a {
   text-decoration:none;
 }
 
+.violet{
+	color: #ff28fe;
+	font-size: 20px;
+}
+
+
 a:hover,
 a:focus {
   text-decoration:none;
@@ -9810,7 +9816,7 @@ header .logo{
 }
 .custom-pagination.pagination-1 > li > a,
 .custom-pagination.pagination-1 > li > span {
-    background-color: #1a1a1a;
+    background-color: #060524;
   	border: 1px solid #0e131b;
     color: #fff;
 	font-weight:600;

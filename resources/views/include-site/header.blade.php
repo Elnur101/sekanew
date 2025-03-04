@@ -52,8 +52,8 @@
             <div class="row">
                 <div class="wt-topbar-left">
                     <ul class="list-unstyled pull-right tb-info-liner">
-                        <li><i class="fa fa-envelope site-text-primary"></i>almuko.m@gmail.com</li>
-                        <li><i class="fa fa-phone site-text-primary"></i>+7 707 780 10 11</li>
+                        <li><i class="fa fa-envelope site-text-primary"></i>1sunsayseka@mail.ru</li>
+                        <li><i class="fa fa-phone site-text-primary"></i>+7 701 223 9777</li>
                     </ul>
                 </div>
                 <div class="wt-topbar-right">
@@ -86,7 +86,7 @@
                             </div>
                             <div class="icon-content">
                                 <strong>Наш Адрес </strong>
-                                <span>Валиханова 47, г.Алматы</span>
+                                <span>Шота Руставели дом 39, г.Алматы</span>
                             </div>
                         </div>
                     </li>
@@ -97,7 +97,7 @@
                             </div>
                             <div class="icon-content">
                                 <strong>Email Address</strong>
-                                <span>almuko.m@gmail.com</span>
+                                <span>1sunsayseka@mail.ru</span>
                             </div>
                         </div>
                     </li>
@@ -108,7 +108,7 @@
                             </div>
                             <div class="icon-content">
                                 <strong>Телефон</strong>
-                                <span>+7 707 780 10 11</span>
+                                <span>+7 701 223 9777</span>
                             </div>
                         </div>
                     </li>

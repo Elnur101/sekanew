@@ -67,7 +67,7 @@
                                     border-width:0px;">
 
                                 <div style="font-family: 'Poppins', sans-serif;">
-                                    <span class="text-white">Lorem ipsum</span>
+                                    <span class="text-white"></span>
                                 </div>
 
                             </div>
@@ -100,7 +100,7 @@
                                     font-weight: 700;
                                     border-width:0px;">
                                 <div style="font-family: 'Poppins', sans-serif; text-transform:uppercase ;">
-                                    <span class="text-white">Lorem Services</span>
+                                    <span class="text-white">Steam Team</span>
                                 </div>
 
                             </div>
@@ -132,7 +132,7 @@
                                     font-weight: 500;
                                     color:#fff;
                                     border-width:0px;">
-                                <span style="font-family: 'Poppins', sans-serif;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been end.</span>
+                                <span style="font-family: 'Poppins', sans-serif;">Мы являемся владельцем уникальных электромобилей с комплексом необходимого оборудования для осуществления выездной автомойки.</span>
                             </div>
 
                             <!-- LAYER NR. 6 [ for see all service botton ] -->
@@ -250,7 +250,7 @@
                                     border-width:0px;">
 
                                 <div style="font-family: 'Poppins', sans-serif; ">
-                                    <span class="text-white">Lorem ipsum</span>
+                                    <span class="text-white"></span>
                                 </div>
 
                             </div>
@@ -284,7 +284,7 @@
                                     font-weight: 700;
                                     border-width:0px;">
                                 <div style="font-family: 'Poppins', sans-serif; text-transform:uppercase ;">
-                                    <span class="text-white">Lorem ipsum </span>
+                                    <span class="text-white">Наши удобства </span>
                                 </div>
 
                             </div>
@@ -316,7 +316,7 @@
                                     font-weight: 500;
                                     color:#fff;
                                     border-width:0px;">
-                                <span style="font-family: 'Poppins', sans-serif;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been end</span>
+                                <span style="font-family: 'Poppins', sans-serif;">Вы можете находится дома, на работе или же в кафе и с помощью приложения «Steam Team» вызвать один из электромобилей, пока вы занимаетесь своими делами ваш автомобиль будет очищен до блеска.</span>
                             </div>
 
                             <!-- LAYER NR. 6 [ for see all service botton ] -->
@@ -434,7 +434,7 @@
                                     border-width:0px;">
 
                                 <div style="font-family: 'Poppins', sans-serif;">
-                                    <span class="text-white">Lorem ipsum</span>
+                                    <span class="text-white"></span>
                                 </div>
 
                             </div>
@@ -469,7 +469,7 @@
                                     font-weight: 700;
                                     border-width:0px;">
                                 <div style="font-family: 'Poppins', sans-serif; text-transform:uppercase ;">
-                                    <span class="text-white">Lorem ipsum</span>
+                                    <span class="text-white">О нашем проекте</span>
                                 </div>
 
                             </div>
@@ -501,7 +501,7 @@
                                     font-weight: 500;
                                     color:#fff;
                                     border-width:0px;">
-                                <span style="font-family: 'Poppins', sans-serif;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been end</span>
+                                <span style="font-family: 'Poppins', sans-serif;">Steam Team – уникальный проект, не имеющий аналогов в мире, это революционная технология оказания услуги автомойки с выездом на дом.</span>
                             </div>
 
                             <!-- LAYER NR. 6 [ for see all service botton ] -->
