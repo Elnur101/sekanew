@@ -9826,7 +9826,7 @@ header .logo{
 .custom-pagination.pagination-1 > li > span:hover,
 .custom-pagination.pagination-1 > li > a:focus,
 .custom-pagination.pagination-1 > li > span:focus {
-    background-color: #d21e2b;
+    background-color: #ff10eb;
     border-color:transparent;
 	color: #fff;
 }
@@ -9836,7 +9836,7 @@ header .logo{
 .custom-pagination.pagination-1 > .active > span:hover,
 .custom-pagination.pagination-1 > .active > a:focus,
 .custom-pagination.pagination-1 > .active > span:focus {
-    background-color: #d21e2b;
+    background-color: #ff10eb;
     border-color:transparent;
 }
 .custom-pagination.pagination-1 > .previous > a,

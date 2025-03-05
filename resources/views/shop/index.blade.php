@@ -40,7 +40,7 @@
                                         <p></p>
                                     </div>
                                     <div class="wt-post-readmore m-b0">
-                                        <a href="#" title="READ MORE" rel="bookmark" class="site-button">Read More</a>
+                                        <a href="#" title="READ MORE" rel="bookmark" class="site-button">Далее</a>
                                     </div>
                                 </div>
                             </div>
