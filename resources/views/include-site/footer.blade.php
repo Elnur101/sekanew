@@ -15,9 +15,9 @@
                         </div>
                         <p>Steam Team — это уникальный сервис, не имеющий аналогов в мире. Мы предлагаем выездную автомойку с использованием паровой технологии, обеспечивая качественную и безопасную очистку автомобиля прямо у вас дома, на работе или в любом удобном месте.</p>
                         <ul>
-                            <li> <i class="fa fa-phone site-text-primary"></i> <b class="p-lr5">Tel:</b> +7 707 780 10 11 </li>
-                            <li><i class="fa fa-envelope site-text-primary"></i> <b  class="p-lr5">Email:</b>almuko.m@gmail.com </li>
-                            <li><i class="fa fa-location-arrow site-text-primary"></i> <b  class="p-lr5">Адрес:</b> Валиханова 47, AL</li>
+                            <li> <i class="fa fa-phone site-text-primary"></i> <b class="p-lr5">Tel:</b> +7 701 223 9777 </li>
+                            <li><i class="fa fa-envelope site-text-primary"></i> <b  class="p-lr5">Email:</b>1sunsayseka@mail.ru </li>
+                            <li><i class="fa fa-location-arrow site-text-primary"></i> <b  class="p-lr5">Адрес:</b> Шота Руставели дом 39, AL</li>
                         </ul>
                     </div>
                 </div>
