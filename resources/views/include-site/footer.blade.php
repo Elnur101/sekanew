@@ -59,26 +59,7 @@
                                     <a href="{{asset('/site/images/gallery/pic4.jpg')}}" class="mfp-link"><img src="{{asset('/site/images/gallery/thumb/pic4.jpg')}}" alt=""></a>
                                 </div>
                             </li>
-                            <li>
-                                <div class="wt-post-thum radius-md overflow-hide">
-                                    <a href="{{asset('/site/images/gallery/pic5.jpg')}}" class="mfp-link"><img src="{{asset('/site/images/gallery/thumb/pic5.jpg')}}" alt=""></a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="wt-post-thum radius-md overflow-hide">
-                                    <a href="{{asset('/site/images/gallery/pic6.jpg')}}" class="mfp-link"><img src="{{asset('/site/images/gallery/thumb/pic6.jpg')}}" alt=""></a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="wt-post-thum radius-md overflow-hide">
-                                    <a href="{{asset('/site/images/gallery/pic7.jpg')}}" class="mfp-link" ><img src="{{asset('/site/images/gallery/thumb/pic7.jpg')}}" alt=""></a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="wt-post-thum radius-md overflow-hide">
-                                    <a href="{{asset('/site/images/gallery/pic8.jpg')}}" class="mfp-link"><img src="{{asset('/site/images/gallery/thumb/pic8.jpg')}}" alt=""></a>
-                                </div>
-                            </li>
+                            
                         </ul>
                     </div>
                     <div class="tag-small widget  widget_tag_cloud m-b20">
